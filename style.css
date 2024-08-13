@@ -358,4 +358,10 @@ footer {
   html {
     scroll-padding-top: 0px; /* Adjust this value to match the height of your navbar */
   }
+  .about-section {
+    height: fit-content;
+  }
+  footer {
+    display: none;
+  }
 }
